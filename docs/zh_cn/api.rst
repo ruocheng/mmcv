@@ -1,9 +1,4 @@
-fileio
--------
-.. automodule:: mmcv.fileio
-    :members:
-
-image
+mage
 ------
 .. automodule:: mmcv.image
     :members:
@@ -31,16 +26,6 @@ utils
 cnn
 ----
 .. automodule:: mmcv.cnn
-    :members:
-
-runner
-------
-.. automodule:: mmcv.runner
-    :members:
-
-engine
-------
-.. automodule:: mmcv.engine
     :members:
 
 ops
